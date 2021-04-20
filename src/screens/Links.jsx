@@ -4,11 +4,11 @@ export default function Links(props) {
 
     const links = [
         {
-            name: "About me",
+            name: "Know me",
             targetIndex: 1
         },
         {
-            name: "Connect with me",
+            name: "Contact me",
             targetIndex: 2
         }
     ];
