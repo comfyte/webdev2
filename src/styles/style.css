@@ -1,4 +1,5 @@
 :root {
+    /* CSS custom properties */
     --page-bg-color: skyblue;
     --link-hover-color: #FF6347;
 }
@@ -42,9 +43,12 @@
 
     font-size: 1.75rem;
     letter-spacing: -0.025rem;
+    
+    color: white;
 }
 .profile-wrapper p {
     margin: 0;
+    color: white;
 }
 .go-back {
     display: block;
